@@ -1,0 +1,4 @@
+2023-05-15 17:05:489 INFO  LoginPage :26 - Send text to username : [[ChromeDriver: chrome on WINDOWS (c42fe7b927a35021ee029e20bbb82894)] -> id: user-name]
+2023-05-15 17:05:567 INFO  LoginPage :33 - Send text to username : [[ChromeDriver: chrome on WINDOWS (c42fe7b927a35021ee029e20bbb82894)] -> id: password]
+2023-05-15 17:05:723 INFO  LoginPage :40 - Click on Login Button [[ChromeDriver: chrome on WINDOWS (c42fe7b927a35021ee029e20bbb82894)] -> id: login-button]
+2023-05-15 17:05:736 INFO  LoginPage :22 - Verify Text from Webpage
